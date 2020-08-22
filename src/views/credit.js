@@ -13,7 +13,7 @@ export default () => {
                   </div>
                   <div class="form-inline">
                     <input id="txt_rut" type="text" class="form-control col-8" placeholder="11111111-1">
-                    <button id="btnvalida" type="button" class="btn btn-primary ml-3">Evaluar</button>
+                    <button id="btnvalida" type="button" class="btn btn-primary button_class1">Evaluar</button>
                   </div>
                 </div>
               </div>
@@ -74,7 +74,7 @@ export default () => {
                 </div>
               </div>
             </form>
-            <button id='btn_sendInfo' type="button" class="btn btn-primary btn-lg mt-3">Ver Crédito</button>
+            <a href="#/aproved" class="btn btn-info button_class1">Ver Crédito</a>
           </div>
         </div>
     `;
