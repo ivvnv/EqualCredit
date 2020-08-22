@@ -1,4 +1,4 @@
-![header](enlace foto)
+![header](https://raw.githubusercontent.com/ivvnv/EqualCredit/master/src/img/RM-header.jpg)
 
 # EQUALCREDIT: El sistema automatizado más innovador del mercado
 
@@ -48,7 +48,13 @@ Tenemos entonces la misión de romper esquemas existentes en el sistema financie
 
 ## 4. Prototipo de Alta Fidelidad
 
-(enlace fotos)
+![prototipo1](https://raw.githubusercontent.com/ivvnv/EqualCredit/master/src/img/RM-prot1.jpeg)
+![prototipo2](https://raw.githubusercontent.com/ivvnv/EqualCredit/master/src/img/RM-prot2.jpeg)
+![prototipo3](https://raw.githubusercontent.com/ivvnv/EqualCredit/master/src/img/RM-prot3.jpeg)
+![prototipo4](https://raw.githubusercontent.com/ivvnv/EqualCredit/master/src/img/RM-prot4.jpeg)
+![prototipo5](https://raw.githubusercontent.com/ivvnv/EqualCredit/master/src/img/RM-prot5.jpeg)
+![prototipo6](https://raw.githubusercontent.com/ivvnv/EqualCredit/master/src/img/RM-prot6.jpeg)
+![prototipo7](https://raw.githubusercontent.com/ivvnv/EqualCredit/master/src/img/RM-prot7.jpeg)
 
 
 
