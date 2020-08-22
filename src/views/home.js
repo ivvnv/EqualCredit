@@ -20,10 +20,11 @@ export default () => {
                 EqualCredit te permite acceder a créditos de manera igualitaria; evaluamos tus datos reales sin importar quién eres y de manera automática te indicaremos si puedes optar a este beneficio, el cual permitirá abrirte puertas a todo lo que deseas.
             </div>
             <div class="col">
-                VIDEO
+            <iframe width="450" height="200" frameborder="0" src="https://www.youtube.com/embed/l-PXRG2HIwE"  allowfullscreen></iframe>
             </div>
         </div>
     </div>
+    
 
    
   <div class="py-5 bg-image-full" style="background-image: url('img/home_image.jpeg');">

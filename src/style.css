@@ -25,6 +25,8 @@ html {
 
 #text-style {
   font-family: "Barlow", sans-serif;
+  font-size: 13pt;
+  line-height: 35px;
 }
 
 .nav-link {
@@ -49,46 +51,17 @@ html {
     -o-background-size: cover;
   }
 
-.image-widescreen {
-  position: relative;
-  /* top: 0; */
-  left: -100px;
-  width: 117%;
-  min-height: 260px;
-  max-height: 330px;
-  overflow-y: hidden;
-}
-
-.image-widescreen > img {
-  padding-top: 100px;
-  width: 100%;
-  overflow-x: hidden;
-}
-
 .img-fluid {
   max-width: 100%;
   height: auto;
 }
 
-.image-widescreen1 {
-  /* position: absolute; */
-  width: 100%;
-  left: -100px;
-  width: 117%;
-  min-height: 530px;
-  max-height: 330px;
-  overflow-y: hidden;
-  position: relative;
-  display: inline-block;
-  text-align: center;
-  overflow-x: hidden;
-}
 
 .button_class {
   position: absolute;
   top: 50%;
   left: 50%;
-  margin: 100px 0px 0px -50px;
+  margin: 250px 0px 0px -50px;
   background-color: #ab5999;
   border-color: #ab5999;
   font-family: "Barlow", sans-serif;
@@ -99,9 +72,22 @@ html {
     border-color: white;
 }
 
-/* .image-widescreen1 img {
-    width: 100%;
-  }  */
+.button_class1 {
+  top: 50%;
+  left: 50%;
+  margin-left: 10px;
+  background-color: #ab5999;
+  border-color: #ab5999;
+  font-family: "Barlow", sans-serif;
+}
+.button_class1:hover {
+    top: 50%;
+    left: 50%;
+    margin-left: 10px;
+    background-color: #ab5999;
+    border-color: #ab5999;
+    font-family: "Barlow", sans-serif;
+  }
 
   .text-over {
       color: white;
@@ -109,10 +95,25 @@ html {
       font-weight: 300;
       font-size: 18pt;
       text-align: center;
+      padding-top: 20px;
   }
+
+  .contact-text {
+    font-family: "Barlow", sans-serif;
+    font-weight: 300;
+    font-size: 18pt;
+    text-align: center;
+    padding-top: 20px;
+}
 
   .relative-position {
     position: relative;
+  }
+
+  .input-type {
+    font-family: "Barlow", sans-serif;
+    font-weight: 400;
+    font-size: 14pt;
   }
   
   .absolute-text {
