@@ -1,7 +1,7 @@
 export default () => {
   const viewsContact = /*html*/ `
   
-  <div class="text-center">
+  <div class="text-center contact-text">
     <img class="rounded mx-auto d-block mb-3" width="145" src="./img/logoContacto.png"/>
     <h5 class='mb-1'>Servicio al Cliente</h5>
     <h6 class='mb-1'>Teléfono</h6>
