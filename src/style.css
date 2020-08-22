@@ -25,6 +25,8 @@ html {
 
 #text-style {
   font-family: "Barlow", sans-serif;
+  font-size: 13pt;
+  line-height: 35px;
 }
 
 .nav-link {
@@ -59,7 +61,7 @@ html {
   position: absolute;
   top: 50%;
   left: 50%;
-  margin: 100px 0px 0px -50px;
+  margin: 250px 0px 0px -50px;
   background-color: #ab5999;
   border-color: #ab5999;
   font-family: "Barlow", sans-serif;

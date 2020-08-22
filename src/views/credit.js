@@ -74,7 +74,7 @@ export default () => {
                 </div>
               </div>
             </form>
-            <button id='btn_sendInfo' type="button" class="btn btn-primary btn-lg mt-3 button_class1">Ver Crédito</button>
+            <a href="#/aproved" class="btn btn-info button_class1">Ver Crédito</a>
           </div>
         </div>
     `;
