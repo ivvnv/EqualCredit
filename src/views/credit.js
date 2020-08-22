@@ -9,7 +9,7 @@ export default () => {
               <div class="col">
                 <div id="inputRut" class="form-group">
                   <div class="form-group">
-                    <label class="col-form-label mb-0" for="inputDefault">Ingresa tu RUT:</label>
+                    <label class="col-form-label mb-0 input-type" for="inputDefault">Ingresa tu RUT:</label>
                   </div>
                   <div class="form-inline">
                     <input id="txt_rut" type="text" class="form-control col-8" placeholder="11111111-1">

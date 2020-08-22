@@ -107,6 +107,12 @@ html {
   .relative-position {
     position: relative;
   }
+
+  .input-type {
+    font-family: "Barlow", sans-serif;
+    font-weight: 400;
+    font-size: 14pt;
+  }
   
   .absolute-text {
     position: absolute;
