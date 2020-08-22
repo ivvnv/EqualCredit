@@ -1,0 +1,190 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500");
+
+/* body {
+    font-family: 'Barlow', sans-serif;
+} */
+html {
+    min-height: 100%;
+    position: relative;
+  }
+  body {
+    margin: 0;
+    margin-bottom: 40px;
+    overflow-x: hidden;
+  }
+
+  footer {
+    background-color:#ab5999;
+    padding-top: 15px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    color: white;
+  }
+
+#text-style {
+  font-family: "Barlow", sans-serif;
+}
+
+.nav-link {
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.navbar {
+  min-height: 80px;
+}
+
+.navbar-brand {
+  height: 60px;
+  
+}
+
+.bg-image-full {
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+
+.button_class {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: 100px 0px 0px -50px;
+  background-color: #ab5999;
+  border-color: #ab5999;
+  font-family: "Barlow", sans-serif;
+}
+
+.button_class:hover {
+    background-color: #ab5999;
+    border-color: white;
+}
+
+.button_class1 {
+  top: 50%;
+  left: 50%;
+  margin-left: 10px;
+  background-color: #ab5999;
+  border-color: #ab5999;
+  font-family: "Barlow", sans-serif;
+}
+.button_class1:hover {
+    top: 50%;
+    left: 50%;
+    margin-left: 10px;
+    background-color: #ab5999;
+    border-color: #ab5999;
+    font-family: "Barlow", sans-serif;
+  }
+
+  .text-over {
+      color: white;
+      font-family: "Barlow", sans-serif;
+      font-weight: 300;
+      font-size: 18pt;
+      text-align: center;
+      padding-top: 20px;
+  }
+
+  .contact-text {
+    font-family: "Barlow", sans-serif;
+    font-weight: 300;
+    font-size: 18pt;
+    text-align: center;
+    padding-top: 20px;
+}
+
+  .relative-position {
+    position: relative;
+  }
+  
+  .absolute-text {
+    position: absolute;
+    top: 15%;
+    right: 0;
+    left:0;
+  }
+  
+  .white-box {
+    padding: 48px;
+    background: white;
+  }
+
+ 
+  .card {
+    position: relative;
+    max-width: 24rem;
+    border: none;
+  }
+
+    .card-block {
+      position: relative;
+      padding: 2rem;
+    }
+    
+    .card-text {
+      margin-bottom: 0;
+    }
+    
+    .card-block>.btn {
+      position: absolute;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      top: 0;
+      left: 50%;
+      transform: translate3d(-50%,-50%,0);
+      border-radius: 50%;
+      padding: 0;
+      width: 3rem;
+      height: 3rem;
+      transition: all .25s ease-in-out;
+    }
+      .icon {
+        width: 50%;
+        height: 50%;
+        margin-left: -10%;
+        transition: all .25s ease-in-out;
+      }
+      
+    
+  #icono {
+      color:#c477b3;
+      font-size: 100px;
+      
+  }
+
+  .testim-title {
+    font-family: "Barlow", sans-serif;
+    font-weight: 500;
+    font-size: 15pt;
+  }
+
+  .button_quote {
+    background-color: #ab5999;
+    border-color: #ab5999;
+  }
+
+  .button_quote:hover {
+    background-color: #ab5999;
+    border-color: #ab5999;
+  }
+
+  .about-text {
+    font-family: "Barlow", sans-serif;
+    text-align: center;
+    /* font-weight: 500;
+    font-size: 15pt; */
+  }
+
+ 

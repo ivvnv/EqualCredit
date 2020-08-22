@@ -1,0 +1,31 @@
+{
+  "name": "equalcredit",
+  "version": "1.0.0",
+  "description": "Proyecto del team TechGals en evento #Hackeando La Desigualdad 2020",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivvnv/EqualCredit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivvnv/EqualCredit/issues"
+  },
+  "homepage": "https://github.com/ivvnv/EqualCredit#readme",
+  "dependencies": {
+    "json": "^9.0.6",
+    "@babel/core": "^7.6.2",
+    "@babel/plugin-transform-modules-commonjs": "^7.6.0",
+    "babel-jest": "^24.9.0",
+    "eslint": "^5.9.0",
+    "gh-pages": "^2.1.1",
+    "htmlhint": "^0.11.0",
+    "jest": "^24.9.0",
+    "opener": "^1.5.1",
+    "serve": "^11.0.0"
+  }
+}
